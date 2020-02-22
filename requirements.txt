@@ -1,0 +1,3 @@
+requests
+vcrpy #records http responses during tests
+pytest
